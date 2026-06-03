@@ -1,0 +1,20 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #0b0b0b;
+  color: #fff;
+}
+
+:root {
+  --red: #e50914;
+  --dark: #141414;
+  --darker: #0b0b0b;
+  --gray: #1b1b1b;
+  --text: #ddd;
+}
+
+a { text-decoration: none; }
+
+button { cursor: pointer; font-family: 'Poppins', sans-serif; }
